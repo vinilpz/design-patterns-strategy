@@ -23,3 +23,10 @@ echo "<br>";
 echo $calculadora->calcula($reforma, new KCV());
 
 
+/* Valores retornados:
+
+25
+50
+100
+
+*/
